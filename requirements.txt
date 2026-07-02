@@ -1,0 +1,10 @@
+langchain
+
+langchain-core
+langchain-groq
+langgraph
+sqlalchemy
+python-dotenv
+pandas
+faker
+tqdm
